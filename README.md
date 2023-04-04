@@ -2,8 +2,7 @@
 
 --------------------------------- Ödev 1 ----------------------------------------
 
-Merhabalar,
-Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
+Merhabalar aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
 1- Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 
