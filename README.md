@@ -1,5 +1,6 @@
-# Patika.dev - SQL - Ödev 1
+# Patika.dev - SQL -
 
+--------------------------------- Ödev 1 ----------------------------------------
 Merhabalar,
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -14,3 +15,5 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 5- Film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
 
 Kolay Gelsin.
+
+---------------------------------------------------------------------------------
