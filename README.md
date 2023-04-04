@@ -1,6 +1,6 @@
 # Patika.dev - SQL -
 
---------------------------------- Ödev 1 ----------------------------------------
+ Ödev 1 
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -17,7 +17,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 ---------------------------------------------------------------------------------
 
---------------------------------- Ödev 2 ----------------------------------------
+ Ödev 2 
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
